@@ -21,7 +21,7 @@
 #         case 7 :
 #             print("Sunday")
 #         case _ :
-#             print("Ener valid day of the week!")
+#             print("Enter valid day of the week!")
 #
 # except Exception as e:
 #     print(f"Error: {e}")
